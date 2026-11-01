@@ -25,7 +25,7 @@ Tables: `Admitidos` (hires), `Demitidos` (terminations), `Cargos` (positions), `
 - [other measures]
 
 ## Dashboard preview
-![Overview]()
+![Overview](https://github.com/maycon-castro-git/hr-analytics-dashboard/blob/main/dashboard/Dashboard%20de%20RH.png)
 ![Turnover by department]()
 
 ## Key insights
