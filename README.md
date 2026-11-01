@@ -1,5 +1,3 @@
-# hr-analytics-dashboard
-
 # HR Analytics Dashboard (Power BI)
 
 Interactive Power BI dashboard to track hiring, terminations, turnover and absenteeism by department.
