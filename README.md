@@ -26,11 +26,9 @@ Tables: `Admitidos` (hires), `Demitidos` (terminations), `Cargos` (positions), `
 
 ## Dashboard preview
 ![Overview](https://github.com/maycon-castro-git/hr-analytics-dashboard/blob/main/dashboard/Dashboard%20de%20RH.png)
-![Turnover by department]()
 
 ## Key insights
 - [insight 1, e.g., which department had the highest turnover]
-- [insight 2]
 
 > Note: all data shown is anonymized / sample data.
 
