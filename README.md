@@ -20,9 +20,9 @@ Tables: `Admitidos` (hires), `Demitidos` (terminations), `Cargos` (positions), `
 [Insert a screenshot of the model view with the relationships]
 
 ## Main DAX measures
-- **Turnover Rate:** [paste your working measure here]
-- **Absenteeism Rate:** [paste measure, if it exists]
-- [other measures]
+- **Turnover Rate:** [Taxa de Turnover = DIVIDE([Desligamentos no Mês], [Colaboradores Ativos], 0)]
+- **Total de Funcionariso:** [total de funcionarios = DISTINCTCOUNT(Funcionario[nome_funcionario])]
+- **Colaboradores Ativos:** [Colaboradores Ativos = CALCULATE(COUNTROWS(Funcionario), Funcionario[status_funcionario] = "01 -Trabalhando")]
 
 ## Dashboard preview
 ![Overview](https://github.com/maycon-castro-git/hr-analytics-dashboard/blob/main/dashboard/Dashboard%20de%20RH.png)
@@ -41,4 +41,4 @@ Power BI, DAX, Power Query, Excel
 - [your ideas]
 
 ## Author
-Maycon Castro · [LinkedIn] · [GitHub]
+Maycon Castro · [www.linkedin.com/in/maycon-castro ] · [https://github.com/maycon-castro-git]
